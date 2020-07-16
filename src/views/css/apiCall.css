@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap");
+#main {
+  background-color: #282c34;
+  color: white;
+  padding: 40px;
+  font-family: "Noto Sans TC", sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+
+  margin: 20px;
+  width: 250px;
+  height: 330px;
+  border-radius: 20px;
+}
+#cityinfo {
+}
+span#desc {
+  color: #f08700;
+  font-size: 30px;
+  padding: 10px;
+}
+div#desc {
+  margin: 5px;
+}
